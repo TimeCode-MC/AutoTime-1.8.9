@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "AutoTime",
+  "mainClass": "de.timecode.autotime.AutoTime",
+  "description": "With this addon you can set your Ingame-Server-Time permanently to your certain time!",
+  "version": 1,
+  "author": "TimeCode",
+  "category": 4,
+  "icon": "https://i.imgur.com/slXQjKQ.png"
+}
